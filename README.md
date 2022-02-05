@@ -6,6 +6,6 @@ Data from two different application programming interfaces or APIs was collected
 The figure below shows an example of data pulled from the OpenWeather API and sorted into a dataframe.  The city, its location, and its weather attributes can be seen in a given row.
 ![Table showing current temperature and weather of randomly generated cities](weather_database/openweather_example_data.png)
 
-Below is an example of a travel route between destinations chosen by user input.  This customn route was generated using the Google Maps Directions API.  
-![map showing a vacation destination of four cities with current weather info](weather_database/openweather_example_data.png)
+Below is an example of a vacation travel destination chosen by user input.  Each destination city has location and current weather information. This customn route was generated using the Google Maps API.  
+![map showing a vacation destination of four cities with current weather info](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
