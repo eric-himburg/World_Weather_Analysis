@@ -4,6 +4,8 @@ Data from two different application programming interfaces or APIs was collected
 
 ## Data Examples
 The figure below shows an example of data pulled from the OpenWeather API and sorted into a dataframe.  The city and its weather attributes can be seen in a given row.
+![Table showing current temperature and weather of randomly generated cities](weather_database/openweather_example_data.png)
+
 
 
 
