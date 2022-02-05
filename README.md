@@ -1,3 +1,6 @@
 # World_Weather_Analysis
 ## Overview of the Project
-Specifically, they recommend adding the weather description to the weather data you’ve already retrieved in this module. Then, you'll have the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
+Data from two different application programming interfaces or APIs was collected, filtered and displayed to help potential travelers decide on vacation destinations.  A list of random cities around the world was generated using Python programming and weather information for each city was collected using OpenWeather API.  The cities were filtered using a minimum and maximum temperature range inputed by a user.  From the remaining cities, four cities close together were chosen as a vacation traveling destination.  Lastly, the Google Maps Directions API was used to create a travel route between the four cities as well as a marker layer map.
+
+## Examples of Data Maps Created
+
